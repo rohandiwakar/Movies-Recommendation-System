@@ -1,4 +1,4 @@
-# Movies-Recommendation-System# 🎥 Movie Recommendation System
+#🎥 Movie Recommendation System
 
 This **Movie Recommendation System** is a content-based recommender application built using **Python** and **Streamlit**.  
 It suggests movies similar to a selected movie by analyzing similarity scores and enhances the user experience by displaying movie posters fetched from the **TMDb API**.
